@@ -112,7 +112,7 @@ $$
 $$
 
 ## 1.5 How to judge a matrix as positive?
-- the order master subtype is all greater than 0;
+- The leading principal minor is all greater than 0;
 - There is a reversible matrix $C$ such that $C^TC$ is equal to the matrix;
 - Positive inertia index is equal to $n$;
 - Contract in unit matrix $E$ (ie: canonical form is $E$)
